@@ -1,0 +1,2132 @@
+{
+  "results": [
+    {
+      "hits": [
+        {
+          "warranty": null,
+          "exclusive": false,
+          "tax_rule_id": 1,
+          "application_id": 631,
+          "offer_latitude": null,
+          "merchant": {
+            "status": "10",
+            "name": "SullivanStore",
+            "id": 730,
+            "keywords": [],
+            "pk": 730,
+            "slug": "sullivanstore",
+            "resource_uri": "https://api.sandbox.iceberg.technology/v1/merchant/730/"
+          },
+          "partial_data": false,
+          "requested_language": "fr",
+          "_tags": [],
+          "shipping_estimation": 4.8,
+          "currency": "EUR",
+          "created_on": 1429693183,
+          "images": [
+            {
+              "width": 500,
+              "display_mode": 0,
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/offer_image/68629/",
+              "url": "https://d1uyhd0hkrx9pt.cloudfront.net/images/2015/04/38973_9b8841f807d5baab6c78aea61b2974b9.JPEG",
+              "order": 0,
+              "id": 68629,
+              "variation": null,
+              "height": 500
+            }
+          ],
+          "last_updated": 1473253760,
+          "offer_longitude": null,
+          "availability": "out_of_stock",
+          "start_selling_date": 1367355600,
+          "delay_before_shipping": 2,
+          "sku": "ST14",
+          "free_shipping": false,
+          "assigned_images": [],
+          "isnew": false,
+          "end_selling_date": null,
+          "price_with_vat": 120,
+          "id": 38973,
+          "max_order_quantity": null,
+          "eco_tax": 0,
+          "restock_date": null,
+          "tax_rate_id": 1,
+          "status_localized": "Active offer",
+          "previous_price_without_vat": null,
+          "previous_price": null,
+          "number_of_units": 1,
+          "stock": 0,
+          "status": "active",
+          "free_return": false,
+          "product": {
+            "status": "active",
+            "categories_dict": [
+              {
+                "pk": 1006,
+                "slug": "electronics",
+                "id": 1006,
+                "name": "Electronics",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/1006/"
+              },
+              {
+                "pk": 5288,
+                "slug": "objets-connectes",
+                "id": 5288,
+                "name": "Objet connecté",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/5288/"
+              },
+              {
+                "pk": 1021,
+                "slug": "books",
+                "id": 1021,
+                "name": "Books",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/1021/"
+              },
+              {
+                "pk": 5238,
+                "slug": "famille-sante-bien-etre",
+                "id": 5238,
+                "name": "Famille, Santé et Bien-être",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/5238/"
+              },
+              {
+                "pk": 5239,
+                "slug": "books-bebe",
+                "id": 5239,
+                "name": "Bébés",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/5239/"
+              },
+              {
+                "pk": 6010,
+                "slug": "mobile-phone",
+                "id": 6010,
+                "name": "Mobile Phone",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/6010/"
+              },
+              {
+                "pk": 1009,
+                "slug": "hardware",
+                "id": 1009,
+                "name": "Hardware",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/1009/"
+              }
+            ],
+            "application_categories_dict": [
+              {
+                "pk": 21945,
+                "slug": "books",
+                "id": 21945,
+                "name": "Livres",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/application_category/21945/"
+              },
+              {
+                "pk": 21946,
+                "slug": "famille-sante-bien-etre",
+                "id": 21946,
+                "name": "Famille, Santé et Bien-être",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/application_category/21946/"
+              },
+              {
+                "pk": 21947,
+                "slug": "books-bebe",
+                "id": 21947,
+                "name": "Bébés",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/application_category/21947/"
+              }
+            ],
+            "application_id": 631,
+            "description": "Samsung Galaxy Core 4g Blanc",
+            "parent": null,
+            "target_audience": [],
+            "brand": {
+              "status": "active",
+              "id": 345,
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/brand/345/",
+              "name": "Samsung",
+              "find_helper": "samsung"
+            },
+            "item_weight": {
+              "g": 250
+            },
+            "manually_managed_fields": [
+              "application_categories",
+              "categories"
+            ],
+            "assigned_images": [],
+            "identifiers": {},
+            "created_on": 1429693183,
+            "gtin": null,
+            "attributes": {},
+            "keywords": [],
+            "id": 39357,
+            "categories": [
+              1006,
+              5288,
+              1021,
+              5238,
+              5239,
+              6010,
+              1009
+            ],
+            "manufacturer": "Charlise",
+            "category": 1009,
+            "gender_localized": "Femme",
+            "application_categories": [
+              21945,
+              21946,
+              21947
+            ],
+            "product_type": "physical",
+            "name": "Samsung Galaxy Core 4g Blanc",
+            "language": "fr",
+            "allowed_variation_type": [],
+            "requested_language": "fr",
+            "gender": "W",
+            "popularity": 1000,
+            "slug": "samsung-galaxy-core-4g-blanc",
+            "categories_count": 7,
+            "status_localized": "Active product",
+            "application_categories_count": 3,
+            "external_id": null,
+            "resource_uri": "https://api.sandbox.iceberg.technology/v1/product/39357/"
+          },
+          "wrappable": true,
+          "price_without_vat": 100,
+          "manually_managed_fields": [
+            "price",
+            "price_with_vat",
+            "price_without_vat"
+          ],
+          "price": 100,
+          "previous_price_with_vat": 0,
+          "wrapping": 0,
+          "shipping_info": null,
+          "last_modified": 1473253759,
+          "tax_rate": 20,
+          "availability_localized": "Out of stock",
+          "merchant_url": "http://monsite.com/product/SH06/",
+          "is_abstract": true,
+          "shipping_estimation_coutry": "Metropolitan France and Monaco",
+          "shipping_cost_override_rule": null,
+          "condition": 0,
+          "number_of_items": null,
+          "description": "Samsung Galaxy Core 4g Blanc",
+          "delivery_time": 72,
+          "applied_discounts": [],
+          "discounted": false,
+          "name": "Samsung Galaxy Core 4g Blanc",
+          "language": "fr",
+          "weight_numeral": 0.25,
+          "crawling_policy": 1,
+          "variations": [
+            {
+              "status": "active",
+              "requested_language": "fr",
+              "variation_type": [
+                "other"
+              ],
+              "external_id": null,
+              "varying_attributes": {
+                "other": null
+              },
+              "price_without_vat": 100,
+              "language": "fr",
+              "price": 100,
+              "previous_price_with_vat": 0,
+              "manually_managed_fields": [
+                "name"
+              ],
+              "currency": "EUR",
+              "gtin": "",
+              "images": [],
+              "application_id": 631,
+              "id": 512998,
+              "sku": "",
+              "applied_discounts": [],
+              "discounted": false,
+              "name": "Samsung Lina",
+              "assigned_images": [],
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/product_variation/512998/",
+              "weight_numeral": null,
+              "status_localized": "Active variation",
+              "localized_variation_type": "",
+              "attributes": {},
+              "previous_price_without_vat": null,
+              "previous_price": null,
+              "price_with_vat": 120,
+              "stock": 0
+            },
+            {
+              "status": "active",
+              "requested_language": "fr",
+              "variation_type": [
+                "other"
+              ],
+              "external_id": null,
+              "varying_attributes": {
+                "other": null
+              },
+              "price_without_vat": 100,
+              "language": "fr",
+              "price": 100,
+              "previous_price_with_vat": 0,
+              "manually_managed_fields": [
+                "name"
+              ],
+              "currency": "EUR",
+              "gtin": "",
+              "images": [],
+              "application_id": 631,
+              "id": 513001,
+              "sku": "",
+              "applied_discounts": [],
+              "discounted": false,
+              "name": "Samsung 2",
+              "assigned_images": [],
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/product_variation/513001/",
+              "weight_numeral": null,
+              "status_localized": "Active variation",
+              "localized_variation_type": "",
+              "attributes": {},
+              "previous_price_without_vat": null,
+              "previous_price": null,
+              "price_with_vat": 120,
+              "stock": 0
+            },
+            {
+              "status": "active",
+              "requested_language": "fr",
+              "variation_type": [
+                "other"
+              ],
+              "external_id": null,
+              "varying_attributes": {
+                "other": null
+              },
+              "price_without_vat": 100,
+              "language": "fr",
+              "price": 100,
+              "previous_price_with_vat": 0,
+              "manually_managed_fields": [
+                "name"
+              ],
+              "currency": "EUR",
+              "gtin": "",
+              "images": [],
+              "application_id": 631,
+              "id": 513002,
+              "sku": "",
+              "applied_discounts": [],
+              "discounted": false,
+              "name": "Yup yup",
+              "assigned_images": [],
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/product_variation/513002/",
+              "weight_numeral": null,
+              "status_localized": "Active variation",
+              "localized_variation_type": "",
+              "attributes": {},
+              "previous_price_without_vat": null,
+              "previous_price": null,
+              "price_with_vat": 120,
+              "stock": 0
+            },
+            {
+              "varying_attributes": {
+                "other": null
+              },
+              "requested_language": "fr",
+              "currency": "EUR",
+              "gtin": "",
+              "images": [],
+              "id": 552572,
+              "sku": "",
+              "assigned_images": [],
+              "status_localized": "Active variation",
+              "localized_variation_type": "",
+              "previous_price_without_vat": null,
+              "previous_price": null,
+              "stock": 0,
+              "status": "active",
+              "variation_type": [
+                "other"
+              ],
+              "external_id": null,
+              "price_without_vat": 100,
+              "price": 100,
+              "previous_price_with_vat": 0,
+              "discounted": false,
+              "name": "abc",
+              "weight_numeral": null,
+              "attributes": {},
+              "applied_discounts": [],
+              "price_with_vat": 120,
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/product_variation/552572/"
+            },
+            {
+              "status": "active",
+              "requested_language": "fr",
+              "variation_type": [
+                "other"
+              ],
+              "external_id": null,
+              "varying_attributes": {
+                "other": null
+              },
+              "price_without_vat": 100,
+              "language": "fr",
+              "price": 100,
+              "previous_price_with_vat": 0,
+              "manually_managed_fields": [
+                "name"
+              ],
+              "currency": "EUR",
+              "gtin": "",
+              "images": [],
+              "application_id": 631,
+              "id": 552620,
+              "sku": "",
+              "applied_discounts": [],
+              "discounted": false,
+              "name": "Une variation",
+              "assigned_images": [],
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/product_variation/552620/",
+              "weight_numeral": null,
+              "status_localized": "Active variation",
+              "localized_variation_type": "",
+              "attributes": {},
+              "previous_price_without_vat": null,
+              "previous_price": null,
+              "price_with_vat": 120,
+              "stock": 0
+            },
+            {
+              "status": "active",
+              "requested_language": "fr",
+              "variation_type": [
+                "other"
+              ],
+              "external_id": null,
+              "varying_attributes": {
+                "other": null
+              },
+              "price_without_vat": 100,
+              "language": "fr",
+              "price": 100,
+              "previous_price_with_vat": 0,
+              "manually_managed_fields": [
+                "name"
+              ],
+              "currency": "EUR",
+              "gtin": "",
+              "images": [],
+              "application_id": 631,
+              "id": 552624,
+              "sku": "",
+              "applied_discounts": [],
+              "discounted": false,
+              "name": "Medium",
+              "assigned_images": [],
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/product_variation/552624/",
+              "weight_numeral": null,
+              "status_localized": "Active variation",
+              "localized_variation_type": "",
+              "attributes": {},
+              "previous_price_without_vat": null,
+              "previous_price": null,
+              "price_with_vat": 120,
+              "stock": 0
+            },
+            {
+              "varying_attributes": {
+                "other": null
+              },
+              "requested_language": "fr",
+              "currency": "EUR",
+              "gtin": "",
+              "images": [],
+              "id": 552801,
+              "sku": "",
+              "assigned_images": [],
+              "status_localized": "Active variation",
+              "localized_variation_type": "",
+              "previous_price_without_vat": null,
+              "previous_price": null,
+              "stock": 0,
+              "status": "active",
+              "variation_type": [
+                "other"
+              ],
+              "external_id": null,
+              "price_without_vat": 100,
+              "price": 100,
+              "previous_price_with_vat": 0,
+              "discounted": false,
+              "name": "aeza",
+              "weight_numeral": null,
+              "attributes": {},
+              "applied_discounts": [],
+              "price_with_vat": 120,
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/product_variation/552801/"
+            }
+          ],
+          "tax_code": null,
+          "default_image": "https://d1uyhd0hkrx9pt.cloudfront.net/images/2015/04/38973_9b8841f807d5baab6c78aea61b2974b9.JPEG",
+          "attributes": {},
+          "shipping_cost_override_value": 0,
+          "external_id": null,
+          "cancellation": false,
+          "product_tax_group_id": 1,
+          "resource_uri": "https://api.sandbox.iceberg.technology/v1/productoffer/38973/",
+          "objectID": "38973",
+          "_highlightResult": {
+            "sku": {
+              "value": "ST14",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "product": {
+              "categories_dict": [
+                {
+                  "name": {
+                    "value": "Electronics",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Objet connecté",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Books",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Famille, Santé et Bien-être",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Bébés",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Mobile Phone",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Hardware",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                }
+              ],
+              "application_categories_dict": [
+                {
+                  "name": {
+                    "value": "Livres",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Famille, Santé et Bien-être",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Bébés",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                }
+              ],
+              "description": {
+                "value": "Samsung Galaxy Core 4g Blanc",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "brand": {
+                "name": {
+                  "value": "Samsung",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              },
+              "name": {
+                "value": "Samsung Galaxy Core 4g Blanc",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            },
+            "merchant_url": {
+              "value": "http://monsite.com/product/SH06/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "description": {
+              "value": "Samsung Galaxy Core 4g Blanc",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "name": {
+              "value": "Samsung Galaxy Core 4g Blanc",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "variations": [
+              {
+                "gtin": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "sku": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "name": {
+                  "value": "Samsung Lina",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              },
+              {
+                "gtin": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "sku": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "name": {
+                  "value": "Samsung 2",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              },
+              {
+                "gtin": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "sku": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "name": {
+                  "value": "Yup yup",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              },
+              {
+                "gtin": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "sku": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "name": {
+                  "value": "abc",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              },
+              {
+                "gtin": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "sku": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "name": {
+                  "value": "Une variation",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              },
+              {
+                "gtin": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "sku": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "name": {
+                  "value": "Medium",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              },
+              {
+                "gtin": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "sku": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "name": {
+                  "value": "aeza",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              }
+            ]
+          }
+        },
+        {
+          "warranty": null,
+          "exclusive": false,
+          "tax_rule_id": 1,
+          "application_id": 631,
+          "offer_latitude": null,
+          "merchant": {
+            "status": "10",
+            "name": "SullivanStore",
+            "id": 730,
+            "keywords": [],
+            "pk": 730,
+            "slug": "sullivanstore",
+            "resource_uri": "https://api.sandbox.iceberg.technology/v1/merchant/730/"
+          },
+          "partial_data": false,
+          "requested_language": "fr",
+          "_tags": [],
+          "shipping_estimation": 4.8,
+          "currency": "EUR",
+          "created_on": 1429693177,
+          "images": [
+            {
+              "width": 500,
+              "display_mode": 0,
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/offer_image/68622/",
+              "url": "https://d1uyhd0hkrx9pt.cloudfront.net/images/2015/04/38966_763663346b01b3e88768ae883fcdfd23.JPEG",
+              "order": 0,
+              "id": 68622,
+              "variation": null,
+              "height": 500
+            }
+          ],
+          "last_updated": 1473260088,
+          "offer_longitude": null,
+          "availability": "out_of_stock",
+          "start_selling_date": 1367355600,
+          "delay_before_shipping": 2,
+          "sku": "ST01",
+          "free_shipping": false,
+          "assigned_images": [],
+          "isnew": false,
+          "end_selling_date": null,
+          "price_with_vat": 248,
+          "id": 38966,
+          "max_order_quantity": null,
+          "eco_tax": 0,
+          "restock_date": null,
+          "tax_rate_id": 1,
+          "status_localized": "Active offer",
+          "previous_price_without_vat": null,
+          "previous_price": null,
+          "number_of_units": 1,
+          "stock": 0,
+          "status": "active",
+          "free_return": false,
+          "product": {
+            "status": "active",
+            "categories_dict": [
+              {
+                "pk": 1006,
+                "slug": "electronics",
+                "id": 1006,
+                "name": "Electronics",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/1006/"
+              },
+              {
+                "pk": 6010,
+                "slug": "mobile-phone",
+                "id": 6010,
+                "name": "Mobile Phone",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/6010/"
+              },
+              {
+                "pk": 1009,
+                "slug": "hardware",
+                "id": 1009,
+                "name": "Hardware",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/1009/"
+              }
+            ],
+            "product": "https://api.sandbox.iceberg.technology/v1/product/39350/",
+            "application_categories_dict": [],
+            "application_id": 631,
+            "description": "Motorola G 2ème génération noir",
+            "screen_size": {
+              "inch": 4.3
+            },
+            "target_audience": [],
+            "operating_system": "android",
+            "brand": {
+              "status": "active",
+              "id": 342,
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/brand/342/",
+              "name": "Motorola",
+              "find_helper": "motorola"
+            },
+            "item_weight": {
+              "g": 250
+            },
+            "manually_managed_fields": [],
+            "operating_system_version": "4.4",
+            "assigned_images": [],
+            "identifiers": {},
+            "created_on": 1429693177,
+            "has_camera": true,
+            "gtin": null,
+            "attributes": {},
+            "keywords": [],
+            "parent": null,
+            "id": 39350,
+            "categories": [
+              1006,
+              6010,
+              1009
+            ],
+            "manufacturer": "Charlise",
+            "category": 1009,
+            "gender_localized": "Femme",
+            "application_categories": [],
+            "product_type": "physical",
+            "name": "Motorola G 2ème génération",
+            "language": "fr",
+            "allowed_variation_type": [],
+            "requested_language": "fr",
+            "gender": "W",
+            "popularity": 1000,
+            "slug": "motorola-g-2eme-generation",
+            "categories_count": 3,
+            "status_localized": "Active product",
+            "application_categories_count": 0,
+            "has_color_screen": true,
+            "external_id": null,
+            "resource_uri": "https://api.sandbox.iceberg.technology/v1/product/39350/"
+          },
+          "wrappable": true,
+          "price_without_vat": 206.666667,
+          "manually_managed_fields": [],
+          "price": 206.666667,
+          "previous_price_with_vat": 0,
+          "wrapping": 0,
+          "shipping_info": null,
+          "last_modified": 1473260087,
+          "tax_rate": 20,
+          "availability_localized": "Out of stock",
+          "merchant_url": "http://monsite.com/product/SH06/",
+          "is_abstract": true,
+          "shipping_estimation_coutry": "Metropolitan France and Monaco",
+          "shipping_cost_override_rule": null,
+          "condition": 0,
+          "number_of_items": null,
+          "description": "Motorola G 2ème génération noir",
+          "delivery_time": 72,
+          "applied_discounts": [],
+          "discounted": false,
+          "name": "Motorola G 2ème génération",
+          "language": "fr",
+          "weight_numeral": 0.25,
+          "crawling_policy": 1,
+          "variations": [
+            {
+              "varying_attributes": {
+                "color": null,
+                "size": null
+              },
+              "requested_language": "fr",
+              "currency": "EUR",
+              "gtin": "",
+              "images": [],
+              "id": 552855,
+              "sku": "",
+              "assigned_images": [],
+              "status_localized": "Active variation",
+              "localized_variation_type": "Color/Size",
+              "previous_price_without_vat": null,
+              "previous_price": null,
+              "stock": 0,
+              "status": "active",
+              "variation_type": [
+                "color",
+                "size"
+              ],
+              "external_id": null,
+              "price_without_vat": 206.666667,
+              "price": 206.666667,
+              "previous_price_with_vat": 0,
+              "discounted": false,
+              "name": "bkbkxw",
+              "weight_numeral": null,
+              "attributes": {},
+              "applied_discounts": [],
+              "price_with_vat": 248,
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/product_variation/552855/"
+            },
+            {
+              "varying_attributes": {
+                "color": null,
+                "size": null
+              },
+              "requested_language": "fr",
+              "currency": "EUR",
+              "gtin": "",
+              "images": [],
+              "id": 552856,
+              "sku": "",
+              "assigned_images": [],
+              "status_localized": "Active variation",
+              "localized_variation_type": "Color/Size",
+              "previous_price_without_vat": null,
+              "previous_price": null,
+              "stock": 0,
+              "status": "active",
+              "variation_type": [
+                "color",
+                "size"
+              ],
+              "external_id": null,
+              "price_without_vat": 206.666667,
+              "price": 206.666667,
+              "previous_price_with_vat": 0,
+              "discounted": false,
+              "name": "xwcxw",
+              "weight_numeral": null,
+              "attributes": {},
+              "applied_discounts": [],
+              "price_with_vat": 248,
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/product_variation/552856/"
+            }
+          ],
+          "tax_code": null,
+          "default_image": "https://d1uyhd0hkrx9pt.cloudfront.net/images/2015/04/38966_763663346b01b3e88768ae883fcdfd23.JPEG",
+          "attributes": {},
+          "shipping_cost_override_value": 0,
+          "external_id": null,
+          "cancellation": false,
+          "product_tax_group_id": 1,
+          "resource_uri": "https://api.sandbox.iceberg.technology/v1/productoffer/38966/",
+          "objectID": "38966",
+          "_highlightResult": {
+            "sku": {
+              "value": "ST01",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "product": {
+              "categories_dict": [
+                {
+                  "name": {
+                    "value": "Electronics",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Mobile Phone",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Hardware",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                }
+              ],
+              "description": {
+                "value": "Motorola G 2ème génération noir",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "brand": {
+                "name": {
+                  "value": "Motorola",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              },
+              "name": {
+                "value": "Motorola G 2ème génération",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            },
+            "merchant_url": {
+              "value": "http://monsite.com/product/SH06/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "description": {
+              "value": "Motorola G 2ème génération noir",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "name": {
+              "value": "Motorola G 2ème génération",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "variations": [
+              {
+                "gtin": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "sku": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "name": {
+                  "value": "bkbkxw",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              },
+              {
+                "gtin": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "sku": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "name": {
+                  "value": "xwcxw",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              }
+            ]
+          }
+        },
+        {
+          "warranty": null,
+          "exclusive": false,
+          "tax_rule_id": 1,
+          "application_id": 631,
+          "offer_latitude": null,
+          "merchant": {
+            "status": "10",
+            "name": "SullivanStore",
+            "id": 730,
+            "keywords": [],
+            "pk": 730,
+            "slug": "sullivanstore",
+            "resource_uri": "https://api.sandbox.iceberg.technology/v1/merchant/730/"
+          },
+          "partial_data": false,
+          "requested_language": "fr",
+          "_tags": [],
+          "shipping_estimation": 4.8,
+          "currency": "EUR",
+          "created_on": 1473260764,
+          "images": [],
+          "last_updated": 1473260860,
+          "offer_longitude": null,
+          "availability": "out_of_stock",
+          "start_selling_date": null,
+          "delay_before_shipping": 0,
+          "sku": "azeaz",
+          "free_shipping": false,
+          "assigned_images": [
+            {
+              "image_width": 359,
+              "image_height": 255,
+              "image_path": "https://d1uyhd0hkrx9pt.cloudfront.net/assets/images/None/main/screen-shot-2016-08-31-at-133902_49abe1c.png",
+              "title": null,
+              "display_mode": 0,
+              "description": null,
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/image/130236/",
+              "order": 0,
+              "id": 130236
+            }
+          ],
+          "isnew": false,
+          "end_selling_date": null,
+          "price_with_vat": 147.6,
+          "id": 1191373,
+          "max_order_quantity": null,
+          "eco_tax": 0,
+          "restock_date": null,
+          "tax_rate_id": 1,
+          "status_localized": "Active offer",
+          "previous_price_without_vat": 0,
+          "previous_price": 0,
+          "number_of_units": 1,
+          "stock": 0,
+          "status": "active",
+          "free_return": false,
+          "product": {
+            "package_width": {
+              "nm": 32432
+            },
+            "application_categories_dict": [
+              {
+                "pk": 21945,
+                "slug": "books",
+                "id": 21945,
+                "name": "Livres",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/application_category/21945/"
+              },
+              {
+                "pk": 21946,
+                "slug": "famille-sante-bien-etre",
+                "id": 21946,
+                "name": "Famille, Santé et Bien-être",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/application_category/21946/"
+              },
+              {
+                "pk": 21948,
+                "slug": "books-couple",
+                "id": 21948,
+                "name": "Couples",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/application_category/21948/"
+              }
+            ],
+            "application_id": 631,
+            "requested_language": "fr",
+            "identifiers": {},
+            "created_on": 1449677747,
+            "gtin": "",
+            "keywords": [],
+            "id": 731130,
+            "category": 5240,
+            "assigned_images": [],
+            "categories_count": 5,
+            "package_length": {
+              "pm": 123
+            },
+            "status_localized": "Active product",
+            "application_categories_count": 3,
+            "item_length": {
+              "m": 2312
+            },
+            "status": "active",
+            "categories_dict": [
+              {
+                "pk": 1003,
+                "slug": "baby-toddler",
+                "id": 1003,
+                "name": "Baby & Toddler",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/1003/"
+              },
+              {
+                "pk": 5137,
+                "slug": "puericulture",
+                "id": 5137,
+                "name": "Puériculture",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/5137/"
+              },
+              {
+                "pk": 1021,
+                "slug": "books",
+                "id": 1021,
+                "name": "Books",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/1021/"
+              },
+              {
+                "pk": 5238,
+                "slug": "famille-sante-bien-etre",
+                "id": 5238,
+                "name": "Famille, Santé et Bien-être",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/5238/"
+              },
+              {
+                "pk": 5240,
+                "slug": "books-couple",
+                "id": 5240,
+                "name": "Couples",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/5240/"
+              }
+            ],
+            "item_height": {
+              "cm": 123.123
+            },
+            "description": "blaelabelazb",
+            "parent": null,
+            "target_audience": [],
+            "brand": {
+              "status": "active",
+              "user_id": 21537,
+              "id": 9076,
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/brand/9076/"
+            },
+            "item_weight": {
+              "kg": 21321
+            },
+            "manually_managed_fields": [
+              "package_width",
+              "package_height",
+              "item_height",
+              "application_categories",
+              "description",
+              "brand",
+              "item_weight",
+              "categories",
+              "package_length",
+              "manufacturer",
+              "package_weight",
+              "item_length",
+              "item_width",
+              "name"
+            ],
+            "package_weight": {
+              "kg": 21312321
+            },
+            "slug": "baby-bed",
+            "categories": [
+              1003,
+              5137,
+              1021,
+              5238,
+              5240
+            ],
+            "manufacturer": "MacManus Corp",
+            "package_height": {
+              "pm": 1232142
+            },
+            "gender_localized": null,
+            "application_categories": [
+              21945,
+              21946,
+              21948
+            ],
+            "product_type": "physical",
+            "name": "Baby Bed",
+            "language": "fr",
+            "allowed_variation_type": [],
+            "gender": null,
+            "popularity": 1000,
+            "attributes": {},
+            "external_id": null,
+            "item_width": {
+              "m": 12321
+            },
+            "resource_uri": "https://api.sandbox.iceberg.technology/v1/product/731130/"
+          },
+          "wrappable": true,
+          "price_without_vat": 123,
+          "manually_managed_fields": [
+            "price",
+            "crawling_policy",
+            "price_with_vat",
+            "price_without_vat"
+          ],
+          "price": 123,
+          "previous_price_with_vat": 0,
+          "wrapping": 0,
+          "shipping_info": null,
+          "last_modified": 1473260857,
+          "tax_rate": 20,
+          "availability_localized": "Out of stock",
+          "merchant_url": null,
+          "is_abstract": false,
+          "shipping_estimation_coutry": "Metropolitan France and Monaco",
+          "shipping_cost_override_rule": null,
+          "condition": 0,
+          "number_of_items": null,
+          "delivery_time": 72,
+          "applied_discounts": [],
+          "discounted": false,
+          "weight_numeral": null,
+          "crawling_policy": 3,
+          "variations": [],
+          "tax_code": null,
+          "default_image": "https://d1uyhd0hkrx9pt.cloudfront.net/assets/images/None/main/screen-shot-2016-08-31-at-133902_49abe1c.png",
+          "attributes": {},
+          "shipping_cost_override_value": 0,
+          "external_id": null,
+          "cancellation": false,
+          "product_tax_group_id": 1,
+          "resource_uri": "https://api.sandbox.iceberg.technology/v1/productoffer/1191373/",
+          "objectID": "1191373",
+          "_highlightResult": {
+            "sku": {
+              "value": "azeaz",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "product": {
+              "application_categories_dict": [
+                {
+                  "name": {
+                    "value": "Livres",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Famille, Santé et Bien-être",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Couples",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                }
+              ],
+              "gtin": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "categories_dict": [
+                {
+                  "name": {
+                    "value": "Baby & Toddler",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Puériculture",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Books",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Famille, Santé et Bien-être",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Couples",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                }
+              ],
+              "description": {
+                "value": "blaelabelazb",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "name": {
+                "value": "Baby Bed",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        },
+        {
+          "warranty": null,
+          "exclusive": false,
+          "tax_rule_id": 1,
+          "application_id": 631,
+          "offer_latitude": null,
+          "merchant": {
+            "status": "10",
+            "name": "SullivanStore",
+            "id": 730,
+            "keywords": [],
+            "pk": 730,
+            "slug": "sullivanstore",
+            "resource_uri": "https://api.sandbox.iceberg.technology/v1/merchant/730/"
+          },
+          "partial_data": false,
+          "requested_language": "fr",
+          "_tags": [],
+          "shipping_estimation": 4.8,
+          "currency": "EUR",
+          "created_on": 1473066993,
+          "images": [],
+          "last_updated": 1473079258,
+          "offer_longitude": null,
+          "availability": "out_of_stock",
+          "start_selling_date": null,
+          "delay_before_shipping": 0,
+          "sku": "23'\"é\"éf\"é",
+          "free_shipping": false,
+          "assigned_images": [
+            {
+              "image_width": 773,
+              "image_height": 175,
+              "image_path": "https://d1uyhd0hkrx9pt.cloudfront.net/assets/images/None/main/capture-decran-2016-08-02-143242_acd1614.png",
+              "title": null,
+              "display_mode": 0,
+              "description": null,
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/image/78649/",
+              "order": 0,
+              "id": 78649
+            }
+          ],
+          "isnew": false,
+          "end_selling_date": null,
+          "price_with_vat": 147.6,
+          "id": 1165083,
+          "max_order_quantity": null,
+          "eco_tax": 0,
+          "restock_date": null,
+          "tax_rate_id": 1,
+          "status_localized": "Active offer",
+          "previous_price_without_vat": 0,
+          "previous_price": 0,
+          "number_of_units": 1,
+          "stock": 0,
+          "status": "active",
+          "free_return": false,
+          "product": {
+            "package_width": {
+              "nm": 32432
+            },
+            "application_categories_dict": [
+              {
+                "pk": 21945,
+                "slug": "books",
+                "id": 21945,
+                "name": "Livres",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/application_category/21945/"
+              },
+              {
+                "pk": 21946,
+                "slug": "famille-sante-bien-etre",
+                "id": 21946,
+                "name": "Famille, Santé et Bien-être",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/application_category/21946/"
+              },
+              {
+                "pk": 21948,
+                "slug": "books-couple",
+                "id": 21948,
+                "name": "Couples",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/application_category/21948/"
+              }
+            ],
+            "application_id": 631,
+            "requested_language": "fr",
+            "identifiers": {},
+            "created_on": 1449677747,
+            "gtin": "",
+            "keywords": [],
+            "id": 731130,
+            "category": 5240,
+            "assigned_images": [],
+            "categories_count": 5,
+            "package_length": {
+              "pm": 123
+            },
+            "status_localized": "Active product",
+            "application_categories_count": 3,
+            "item_length": {
+              "m": 2312
+            },
+            "status": "active",
+            "categories_dict": [
+              {
+                "pk": 1003,
+                "slug": "baby-toddler",
+                "id": 1003,
+                "name": "Baby & Toddler",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/1003/"
+              },
+              {
+                "pk": 5137,
+                "slug": "puericulture",
+                "id": 5137,
+                "name": "Puériculture",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/5137/"
+              },
+              {
+                "pk": 1021,
+                "slug": "books",
+                "id": 1021,
+                "name": "Books",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/1021/"
+              },
+              {
+                "pk": 5238,
+                "slug": "famille-sante-bien-etre",
+                "id": 5238,
+                "name": "Famille, Santé et Bien-être",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/5238/"
+              },
+              {
+                "pk": 5240,
+                "slug": "books-couple",
+                "id": 5240,
+                "name": "Couples",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/5240/"
+              }
+            ],
+            "item_height": {
+              "cm": 123.123
+            },
+            "description": "blaelabelazb",
+            "parent": null,
+            "target_audience": [],
+            "brand": {
+              "status": "active",
+              "user_id": 21537,
+              "id": 9076,
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/brand/9076/"
+            },
+            "item_weight": {
+              "kg": 21321
+            },
+            "manually_managed_fields": [
+              "package_width",
+              "package_height",
+              "item_height",
+              "application_categories",
+              "description",
+              "brand",
+              "item_weight",
+              "categories",
+              "package_length",
+              "manufacturer",
+              "package_weight",
+              "item_length",
+              "item_width",
+              "name"
+            ],
+            "package_weight": {
+              "kg": 21312321
+            },
+            "slug": "baby-bed",
+            "categories": [
+              1003,
+              5137,
+              1021,
+              5238,
+              5240
+            ],
+            "manufacturer": "MacManus Corp",
+            "package_height": {
+              "pm": 1232142
+            },
+            "gender_localized": null,
+            "application_categories": [
+              21945,
+              21946,
+              21948
+            ],
+            "product_type": "physical",
+            "name": "Baby Bed",
+            "language": "fr",
+            "allowed_variation_type": [],
+            "gender": null,
+            "popularity": 1000,
+            "attributes": {},
+            "external_id": null,
+            "item_width": {
+              "m": 12321
+            },
+            "resource_uri": "https://api.sandbox.iceberg.technology/v1/product/731130/"
+          },
+          "wrappable": true,
+          "price_without_vat": 123,
+          "manually_managed_fields": [
+            "price",
+            "crawling_policy",
+            "price_with_vat",
+            "price_without_vat"
+          ],
+          "price": 123,
+          "previous_price_with_vat": 0,
+          "wrapping": 0,
+          "shipping_info": null,
+          "last_modified": 1473079255,
+          "tax_rate": 20,
+          "availability_localized": "Out of stock",
+          "merchant_url": null,
+          "is_abstract": true,
+          "shipping_estimation_coutry": "Metropolitan France and Monaco",
+          "shipping_cost_override_rule": null,
+          "condition": 0,
+          "number_of_items": null,
+          "delivery_time": 72,
+          "applied_discounts": [],
+          "discounted": false,
+          "language": "fr",
+          "weight_numeral": null,
+          "crawling_policy": 3,
+          "variations": [
+            {
+              "status": "active",
+              "requested_language": "fr",
+              "variation_type": [
+                "other"
+              ],
+              "external_id": null,
+              "varying_attributes": {
+                "other": null
+              },
+              "price_without_vat": 123,
+              "language": "fr",
+              "price": 123,
+              "previous_price_with_vat": 0,
+              "manually_managed_fields": [
+                "name"
+              ],
+              "currency": "EUR",
+              "gtin": "",
+              "images": [],
+              "application_id": 631,
+              "id": 513004,
+              "sku": "",
+              "applied_discounts": [],
+              "discounted": false,
+              "name": "abc",
+              "assigned_images": [],
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/product_variation/513004/",
+              "weight_numeral": null,
+              "status_localized": "Active variation",
+              "localized_variation_type": "",
+              "attributes": {},
+              "previous_price_without_vat": 0,
+              "previous_price": 0,
+              "price_with_vat": 147.6,
+              "stock": 0
+            }
+          ],
+          "tax_code": null,
+          "default_image": "https://d1uyhd0hkrx9pt.cloudfront.net/assets/images/None/main/capture-decran-2016-08-02-143242_acd1614.png",
+          "attributes": {},
+          "shipping_cost_override_value": 0,
+          "external_id": null,
+          "cancellation": false,
+          "product_tax_group_id": 1,
+          "resource_uri": "https://api.sandbox.iceberg.technology/v1/productoffer/1165083/",
+          "objectID": "1165083",
+          "_highlightResult": {
+            "sku": {
+              "value": "23'\"é\"éf\"é",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "product": {
+              "application_categories_dict": [
+                {
+                  "name": {
+                    "value": "Livres",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Famille, Santé et Bien-être",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Couples",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                }
+              ],
+              "gtin": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "categories_dict": [
+                {
+                  "name": {
+                    "value": "Baby & Toddler",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Puériculture",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Books",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Famille, Santé et Bien-être",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Couples",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                }
+              ],
+              "description": {
+                "value": "blaelabelazb",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "name": {
+                "value": "Baby Bed",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            },
+            "variations": [
+              {
+                "gtin": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "sku": {
+                  "value": "",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                },
+                "name": {
+                  "value": "abc",
+                  "matchLevel": "none",
+                  "matchedWords": []
+                }
+              }
+            ]
+          }
+        },
+        {
+          "warranty": null,
+          "exclusive": false,
+          "tax_rule_id": 1,
+          "application_id": 631,
+          "offer_latitude": null,
+          "merchant": {
+            "status": "10",
+            "name": "SullivanStore",
+            "id": 730,
+            "keywords": [],
+            "pk": 730,
+            "slug": "sullivanstore",
+            "resource_uri": "https://api.sandbox.iceberg.technology/v1/merchant/730/"
+          },
+          "partial_data": false,
+          "requested_language": "fr",
+          "_tags": [],
+          "shipping_estimation": 4.8,
+          "currency": "EUR",
+          "created_on": 1473064050,
+          "images": [],
+          "last_updated": 1473067708,
+          "offer_longitude": null,
+          "availability": "out_of_stock",
+          "start_selling_date": null,
+          "delay_before_shipping": 0,
+          "sku": "jbjbj12",
+          "free_shipping": false,
+          "assigned_images": [
+            {
+              "image_width": 773,
+              "image_height": 175,
+              "image_path": "https://d1uyhd0hkrx9pt.cloudfront.net/assets/images/None/main/capture-decran-2016-08-02-143242_acd1614.png",
+              "title": null,
+              "display_mode": 0,
+              "description": null,
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/image/78649/",
+              "order": 0,
+              "id": 78649
+            }
+          ],
+          "isnew": false,
+          "end_selling_date": null,
+          "price_with_vat": 14774.4,
+          "id": 1165082,
+          "max_order_quantity": null,
+          "eco_tax": 0,
+          "restock_date": null,
+          "tax_rate_id": 1,
+          "status_localized": "Active offer",
+          "previous_price_without_vat": 0,
+          "previous_price": 0,
+          "number_of_units": 1,
+          "stock": 0,
+          "status": "active",
+          "free_return": false,
+          "product": {
+            "package_width": {
+              "nm": 32432
+            },
+            "application_categories_dict": [
+              {
+                "pk": 21945,
+                "slug": "books",
+                "id": 21945,
+                "name": "Livres",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/application_category/21945/"
+              },
+              {
+                "pk": 21946,
+                "slug": "famille-sante-bien-etre",
+                "id": 21946,
+                "name": "Famille, Santé et Bien-être",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/application_category/21946/"
+              },
+              {
+                "pk": 21948,
+                "slug": "books-couple",
+                "id": 21948,
+                "name": "Couples",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/application_category/21948/"
+              }
+            ],
+            "application_id": 631,
+            "requested_language": "fr",
+            "identifiers": {},
+            "created_on": 1449677747,
+            "gtin": "",
+            "keywords": [],
+            "id": 731130,
+            "category": 5240,
+            "assigned_images": [],
+            "categories_count": 5,
+            "package_length": {
+              "pm": 123
+            },
+            "status_localized": "Active product",
+            "application_categories_count": 3,
+            "item_length": {
+              "m": 2312
+            },
+            "status": "active",
+            "categories_dict": [
+              {
+                "pk": 1003,
+                "slug": "baby-toddler",
+                "id": 1003,
+                "name": "Baby & Toddler",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/1003/"
+              },
+              {
+                "pk": 5137,
+                "slug": "puericulture",
+                "id": 5137,
+                "name": "Puériculture",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/5137/"
+              },
+              {
+                "pk": 1021,
+                "slug": "books",
+                "id": 1021,
+                "name": "Books",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/1021/"
+              },
+              {
+                "pk": 5238,
+                "slug": "famille-sante-bien-etre",
+                "id": 5238,
+                "name": "Famille, Santé et Bien-être",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/5238/"
+              },
+              {
+                "pk": 5240,
+                "slug": "books-couple",
+                "id": 5240,
+                "name": "Couples",
+                "resource_uri": "https://api.sandbox.iceberg.technology/v1/category/5240/"
+              }
+            ],
+            "item_height": {
+              "cm": 123.123
+            },
+            "description": "blaelabelazb",
+            "parent": null,
+            "target_audience": [],
+            "brand": {
+              "status": "active",
+              "user_id": 21537,
+              "id": 9076,
+              "resource_uri": "https://api.sandbox.iceberg.technology/v1/brand/9076/"
+            },
+            "item_weight": {
+              "kg": 21321
+            },
+            "manually_managed_fields": [
+              "package_width",
+              "package_height",
+              "item_height",
+              "application_categories",
+              "description",
+              "brand",
+              "item_weight",
+              "categories",
+              "package_length",
+              "manufacturer",
+              "package_weight",
+              "item_length",
+              "item_width",
+              "name"
+            ],
+            "package_weight": {
+              "kg": 21312321
+            },
+            "slug": "baby-bed",
+            "categories": [
+              1003,
+              5137,
+              1021,
+              5238,
+              5240
+            ],
+            "manufacturer": "MacManus Corp",
+            "package_height": {
+              "pm": 1232142
+            },
+            "gender_localized": null,
+            "application_categories": [
+              21945,
+              21946,
+              21948
+            ],
+            "product_type": "physical",
+            "name": "Baby Bed",
+            "language": "fr",
+            "allowed_variation_type": [],
+            "gender": null,
+            "popularity": 1000,
+            "attributes": {},
+            "external_id": null,
+            "item_width": {
+              "m": 12321
+            },
+            "resource_uri": "https://api.sandbox.iceberg.technology/v1/product/731130/"
+          },
+          "wrappable": true,
+          "price_without_vat": 12312,
+          "manually_managed_fields": [
+            "price",
+            "price_without_vat",
+            "price_with_vat",
+            "crawling_policy"
+          ],
+          "price": 12312,
+          "previous_price_with_vat": 0,
+          "wrapping": 0,
+          "shipping_info": null,
+          "last_modified": 1473067491,
+          "tax_rate": 20,
+          "availability_localized": "Out of stock",
+          "merchant_url": null,
+          "is_abstract": false,
+          "shipping_estimation_coutry": "Metropolitan France and Monaco",
+          "shipping_cost_override_rule": null,
+          "condition": 0,
+          "number_of_items": null,
+          "delivery_time": 72,
+          "applied_discounts": [],
+          "discounted": false,
+          "weight_numeral": null,
+          "crawling_policy": 3,
+          "variations": [],
+          "tax_code": null,
+          "default_image": "https://d1uyhd0hkrx9pt.cloudfront.net/assets/images/None/main/capture-decran-2016-08-02-143242_acd1614.png",
+          "attributes": {},
+          "shipping_cost_override_value": 0,
+          "external_id": null,
+          "cancellation": false,
+          "product_tax_group_id": 1,
+          "resource_uri": "https://api.sandbox.iceberg.technology/v1/productoffer/1165082/",
+          "objectID": "1165082",
+          "_highlightResult": {
+            "sku": {
+              "value": "jbjbj12",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "product": {
+              "application_categories_dict": [
+                {
+                  "name": {
+                    "value": "Livres",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Famille, Santé et Bien-être",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Couples",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                }
+              ],
+              "gtin": {
+                "value": "",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "categories_dict": [
+                {
+                  "name": {
+                    "value": "Baby & Toddler",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Puériculture",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Books",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Famille, Santé et Bien-être",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                },
+                {
+                  "name": {
+                    "value": "Couples",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                  }
+                }
+              ],
+              "description": {
+                "value": "blaelabelazb",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              "name": {
+                "value": "Baby Bed",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            }
+          }
+        }
+      ],
+      "nbHits": 5,
+      "page": 0,
+      "nbPages": 1,
+      "hitsPerPage": 20,
+      "processingTimeMS": 1,
+      "facets": {
+        "status": {
+          "active": 5
+        },
+        "discounted": {
+          "false": 5
+        },
+        "availability": {
+          "out_of_stock": 5
+        },
+        "merchant.name": {
+          "SullivanStore": 5
+        },
+        "product.gender": {
+          "W": 2
+        },
+        "product.brand.name": {
+          "Motorola": 1,
+          "Samsung": 1
+        },
+        "product.application_categories_dict.name": {
+          "Famille, Santé et Bien-être": 4,
+          "Livres": 4,
+          "Couples": 3,
+          "Bébés": 1
+        }
+      },
+      "exhaustiveFacetsCount": true,
+      "query": "",
+      "params": "query=&page=0&facets=%5B%22status%22%2C%22merchant.name%22%2C%22product.brand.name%22%2C%22product.gender%22%2C%22product.keywords%22%2C%22availability%22%2C%22product.application_categories_dict.name%22%2C%22discounted%22%5D&tagFilters=&facetFilters=%5B%22status%3Aactive%22%5D&facetFilters=%5B%22merchant.id%3A730%22%5D",
+      "index": "SAND:channel:sullivanapp:product_offer:backoffice:6886:1887:fr:"
+    }
+  ]
+}
